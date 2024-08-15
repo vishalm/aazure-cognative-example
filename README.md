@@ -22,4 +22,4 @@ https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/conce
 <img src="captions.jpg">
 
 
-13-Mar-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
+13-Mar-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/# aazure-cognative-example
