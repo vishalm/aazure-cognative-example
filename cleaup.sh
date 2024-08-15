@@ -1,0 +1,1 @@
+find /Users/vishalmishra/workspace/self/azure-cognative-example -type f ! -name 'image_analysis.ipynb' ! -path '*/venv/*' ! -name 'sample_image.png' ! -name cleaup.sh ! -name requirements.txt -delete 
