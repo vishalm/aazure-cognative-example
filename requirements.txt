@@ -7,9 +7,7 @@ contourpy==1.2.1
 cycler==0.12.1
 debugpy==1.8.5
 decorator==5.1.1
-distlib==0.3.8
 executing==2.0.1
-filelock==3.13.1
 fonttools==4.53.1
 idna==3.7
 ipykernel==6.29.5
@@ -28,7 +26,7 @@ packaging==24.1
 parso==0.8.4
 pexpect==4.9.0
 pillow==10.4.0
-platformdirs==4.2.0
+platformdirs==4.2.2
 prompt_toolkit==3.0.47
 psutil==6.0.0
 ptyprocess==0.7.0
@@ -45,5 +43,4 @@ tornado==6.4.1
 traitlets==5.14.3
 typing_extensions==4.12.2
 urllib3==2.2.2
-virtualenv==20.25.1
 wcwidth==0.2.13
